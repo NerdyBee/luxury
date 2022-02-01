@@ -1,2 +1,0 @@
-# luxury
-hotel booking
